@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/keys-pub/go-libfido2"
 	"github.com/pkg/errors"
+	"github.com/snicol/go-libfido2"
 	"github.com/stretchr/testify/require"
 )
 
